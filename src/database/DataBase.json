@@ -1,0 +1,1416 @@
+{
+  "present": {
+    "être": {
+      "Je": {
+        "conjugation": "suis",
+        "complement": "un homme"
+      },
+      "Nous": {
+        "conjugation": "sommes",
+        "complement": "en Colombie"
+      },
+      "Tu": {
+        "conjugation": "es",
+        "complement": "heureux"
+      },
+      "Il": {
+        "conjugation": "est",
+        "complement": "très grand"
+      },
+      "Elle": {
+        "conjugation": "est",
+        "complement": "intelligente"
+      },
+      "Vous": {
+        "conjugation": "êtes",
+        "complement": "bruyants"
+      },
+      "Ils": {
+        "conjugation": "sont",
+        "complement": "calmes"
+      },
+      "Elles": {
+        "conjugation": "sont",
+        "complement": "drolês"
+      }
+    },
+    "avoir": {
+      "J'": {
+        "conjugation": "ai",
+        "complement": "une voiture"
+      },
+      "Tu": {
+        "conjugation": "as",
+        "complement": "une bouteille"
+      },
+      "Il": {
+        "conjugation": "a",
+        "complement": "24 ans"
+      },
+      "Nous": {
+        "conjugation": "avons",
+        "complement": "beaucoup de viande"
+      },
+      "Elle": {
+        "conjugation": "a",
+        "complement": "une chienne noire"
+      },
+      "Vous": {
+        "conjugation": "avez",
+        "complement": "peur"
+      },
+      "Ils": {
+        "conjugation": "ont",
+        "complement": "une maladie"
+      },
+      "Elles": {
+        "conjugation": "ont",
+        "complement": "des portefeuilles"
+      }
+    },
+    "faire": {
+      "Je": {
+        "conjugation": "fais",
+        "complement": "du sport"
+      },
+      "Tu": {
+        "conjugation": "fais",
+        "complement": "de la gymnastique"
+      },
+      "Il": {
+        "conjugation": "fait",
+        "complement": "d'équitation"
+      },
+      "Nous": {
+        "conjugation": "faisons",
+        "complement": "de la peinture"
+      },
+      "Vous": {
+        "conjugation": "faites",
+        "complement": "du tennis"
+      },
+      "Ils": {
+        "conjugation": "font",
+        "complement": "des activités d'orientation"
+      }
+    },
+    "dire": {
+      "Je": {
+        "conjugation": "dis",
+        "complement": "à ma mère"
+      },
+      "Tu": {
+        "conjugation": "dis",
+        "complement": "que le voyage est agréable"
+      },
+      "Vous": {
+        "conjugation": "dites",
+        "complement": "à vous père"
+      },
+      "Elle": {
+        "conjugation": "dit",
+        "complement": "que tu manges trop"
+      },
+      "Nous": {
+        "conjugation": "disons",
+        "complement": "salut!"
+      },
+      "Elles": {
+        "conjugation": "disent",
+        "complement": "que c'est impossible"
+      }
+    },
+    "aller": {
+      "Elles": {
+        "conjugation": "vont",
+        "complement": "donner des concerts partout"
+      },
+      "Vous": {
+        "conjugation": "allez",
+        "complement": "marcher por la rue"
+      },
+      "Nous": {
+        "conjugation": "allons",
+        "complement": "participer"
+      },
+      "Elle": {
+        "conjugation": "va",
+        "complement": "à chez toi?"
+      },
+      "Tu": {
+        "conjugation": "vas",
+        "complement": "manger"
+      },
+      "Je": {
+        "conjugation": "vais",
+        "complement": "apprendre"
+      }
+    },
+    "voir": {
+      "Je": {
+        "conjugation": "vois",
+        "complement": "le livre"
+      },
+      "Tu": {
+        "conjugation": "vois",
+        "complement": "la reine"
+      },
+      "Il": {
+        "conjugation": "voit",
+        "complement": "des roses"
+      },
+      "Nous": {
+        "conjugation": "voyons",
+        "complement": "à ce chanteur"
+      },
+      "Vous": {
+        "conjugation": "voyez",
+        "complement": "lui?"
+      },
+      "Elles": {
+        "conjugation": "voient",
+        "complement": "la vie en rose"
+      }
+    },
+    "pouvoir": {
+      "Je": {
+        "conjugation": "peux",
+        "complement": "acheter cet oreiller"
+      },
+      "Tu": {
+        "conjugation": "peux",
+        "complement": "aller à Cancun"
+      },
+      "Vous": {
+        "conjugation": "pouvez",
+        "complement": "visiter moi"
+      },
+      "Nous": {
+        "conjugation": "pouvons",
+        "complement": "crier à tout le monde"
+      },
+      "Il": {
+        "conjugation": "peut",
+        "complement": "habiter là"
+      },
+      "Ils": {
+        "conjugation": "peuvent",
+        "complement": "courir très vite"
+      }
+    },
+    "savoir": {
+      "Je": {
+        "conjugation": "sais",
+        "complement": "la vérité"
+      },
+      "Tu": {
+        "conjugation": "sais",
+        "complement": "mon âge"
+      },
+      "Il": {
+        "conjugation": "sait",
+        "complement": "ton nom"
+      },
+      "Nous": {
+        "conjugation": "savons",
+        "complement": "nous besoins"
+      },
+      "Vous": {
+        "conjugation": "savez",
+        "complement": "sur Netflix"
+      },
+      "Ils": {
+        "conjugation": "savent",
+        "complement": "les problèmes"
+      }
+    },
+    "vouloir": {
+      "Je": {
+        "conjugation": "veux",
+        "complement": "un chien"
+      },
+      "Tu": {
+        "conjugation": "veux",
+        "complement": "un chat"
+      },
+      "Il": {
+        "conjugation": "veut",
+        "complement": "un cadeau"
+      },
+      "Nous": {
+        "conjugation": "vouyons",
+        "complement": "un ordinateur"
+      },
+      "Vous": {
+        "conjugation": "vouyez",
+        "complement": "les clés"
+      },
+      "Ils": {
+        "conjugation": "veulent",
+        "complement": "du riz"
+      }
+    },
+    "venir": {
+      "Je": {
+        "conjugation": "viens",
+        "complement": "de la Colombia"
+      },
+      "Tu": {
+        "conjugation": "viens",
+        "complement": "d'Italie"
+      },
+      "Il": {
+        "conjugation": "vient",
+        "complement": "du Canada"
+      },
+      "Nous": {
+        "conjugation": "venons",
+        "complement": "des États-Unis"
+      },
+      "Vous": {
+        "conjugation": "venez",
+        "complement": "d'Argentine"
+      },
+      "Ils": {
+        "conjugation": "viennent",
+        "complement": "d'Europe"
+      }
+    },
+    "devoir": {
+      "Je": {
+        "conjugation": "dois",
+        "complement": "aller demain"
+      },
+      "Tu": {
+        "conjugation": "dois",
+        "complement": "chercher ta clé"
+      },
+      "Il": {
+        "conjugation": "doit",
+        "complement": "faire plus sport"
+      },
+      "Nous": {
+        "conjugation": "devons",
+        "complement": "manger"
+      },
+      "Vous": {
+        "conjugation": "devez",
+        "complement": "courir très vite"
+      },
+      "Ils": {
+        "conjugation": "doivent",
+        "complement": "dormir"
+      }
+    },
+    "croire": {
+      "Je": {
+        "conjugation": "crois",
+        "complement": "en toi"
+      },
+      "Tu": {
+        "conjugation": "crois",
+        "complement": "en moi"
+      },
+      "Il": {
+        "conjugation": "croit",
+        "complement": "en tout"
+      },
+      "Nous": {
+        "conjugation": "croyons",
+        "complement": "qu'il réussira cet examen"
+      },
+      "Vous": {
+        "conjugation": "croyez",
+        "complement": "en dieu"
+      },
+      "Ils": {
+        "conjugation": "croient",
+        "complement": "en le président"
+      }
+    },
+    "prendre": {
+      "Je": {
+        "conjugation": "prends",
+        "complement": "à moto"
+      },
+      "Tu": {
+        "conjugation": "prends",
+        "complement": "le livre"
+      },
+      "Elle": {
+        "conjugation": "prend",
+        "complement": "ses papiers"
+      },
+      "Nous": {
+        "conjugation": "prenons",
+        "complement": "le bus"
+      },
+      "Ils": {
+        "conjugation": "prennent",
+        "complement": "trois heures"
+      },
+      "Vous": {
+        "conjugation": "prenez",
+        "complement": "l'argent"
+      }
+    },
+    "mettre": {
+      "Je": {
+        "conjugation": "mets",
+        "complement": "les documents"
+      },
+      "Tu": {
+        "conjugation": "mets",
+        "complement": "un pantalon"
+      },
+      "Il": {
+        "conjugation": "met",
+        "complement": "une chemise"
+      },
+      "Nous": {
+        "conjugation": "mettons",
+        "complement": "les bonnets"
+      },
+      "Vous": {
+        "conjugation": "mettez",
+        "complement": "un caleçon"
+      },
+      "Elles": {
+        "conjugation": "mettent",
+        "complement": "des vestes"
+      }
+    },
+    "tenir": {
+      "Je": {
+        "conjugation": "tiens",
+        "complement": "un stylo"
+      },
+      "Tu": {
+        "conjugation": "tiens",
+        "complement": "les clés"
+      },
+      "Elle": {
+        "conjugation": "tient",
+        "complement": "une cuillère"
+      },
+      "Nous": {
+        "conjugation": "tenons",
+        "complement": "les couteaus"
+      },
+      "Vous": {
+        "conjugation": "tenez",
+        "complement": "une fourchette"
+      },
+      "Ils": {
+        "conjugation": "tiennent",
+        "complement": "des papiers"
+      }
+    },
+    "entendre": {
+      "J'": {
+        "conjugation": "entends",
+        "complement": "bien"
+      },
+      "Tu": {
+        "conjugation": "entends",
+        "complement": "le son des cloches"
+      },
+      "Il": {
+        "conjugation": "entend",
+        "complement": "ce que je lui dis"
+      },
+      "Nous": {
+        "conjugation": "entendons",
+        "complement": "la musique"
+      },
+      "Vous": {
+        "conjugation": "entendez",
+        "complement": "moi"
+      },
+      "Ils": {
+        "conjugation": "entendent",
+        "complement": "des choses"
+      }
+    },
+    "répondre": {
+      "Je": {
+        "conjugation": "réponds",
+        "complement": "l'examen"
+      },
+      "Tu": {
+        "conjugation": "réponds",
+        "complement": "la question"
+      },
+      "Elle": {
+        "conjugation": "répond",
+        "complement": "à toi"
+      },
+      "Nous": {
+        "conjugation": "répondons",
+        "complement": "rien"
+      },
+      "Ils": {
+        "conjugation": "répondent",
+        "complement": "à tous"
+      },
+      "Vous": {
+        "conjugation": "répondez",
+        "complement": "avec la vérité"
+      }
+    },
+    "rendre": {
+      "Je": {
+        "conjugation": "rends",
+        "complement": "le livre à Jean"
+      },
+      "Tu": {
+        "conjugation": "rends",
+        "complement": "l'argent à Luis"
+      },
+      "Il": {
+        "conjugation": "rend",
+        "complement": "le verre"
+      },
+      "Nous": {
+        "conjugation": "rendons",
+        "complement": "le pantalon"
+      },
+      "Vous": {
+        "conjugation": "rendez",
+        "complement": "le savon"
+      },
+      "Elles": {
+        "conjugation": "rendent",
+        "complement": "la crème"
+      }
+    },
+    "connaître": {
+      "Tu": {
+        "conjugation": "connais",
+        "complement": "un mécanicien"
+      },
+      "Je": {
+        "conjugation": "connais",
+        "complement": "un bon coiffeur"
+      },
+      "Il": {
+        "conjugation": "connaît",
+        "complement": "bien ses animaux"
+      },
+      "Nous": {
+        "conjugation": "connaissons",
+        "complement": "un médecin"
+      },
+      "Vous": {
+        "conjugation": "connaissez",
+        "complement": "ce restaurant"
+      },
+      "Ils": {
+        "conjugation": "connaissent",
+        "complement": "ce lieu"
+      }
+    },
+    "paraître": {
+      "Je": {
+        "conjugation": "parais",
+        "complement": "à mon père"
+      },
+      "Tu": {
+        "conjugation": "parais",
+        "complement": "un enfant"
+      },
+      "Elle": {
+        "conjugation": "parâit",
+        "complement": "à toi"
+      },
+      "Nous": {
+        "conjugation": "paraissons",
+        "complement": "frères"
+      },
+      "Vous": {
+        "conjugation": "paraissez",
+        "complement": "fatigué ce matin"
+      },
+      "Ils": {
+        "conjugation": "paraissent",
+        "complement": "à tous"
+      }
+    },
+    "sentir": {
+      "Je": {
+        "conjugation": "sens",
+        "complement": "l'odeur de l'herbe coupée"
+      },
+      "Tu": {
+        "conjugation": "sens",
+        "complement": "l'odeur de ces fleurs"
+      },
+      "Il": {
+        "conjugation": "sent",
+        "complement": "la fraîcheur du soir"
+      },
+      "Nous": {
+        "conjugation": "sentons",
+        "complement": "bien"
+      },
+      "Vous": {
+        "conjugation": "sentez",
+        "complement": "vous dos "
+      },
+      "Elles": {
+        "conjugation": "sentent",
+        "complement": "le racisme"
+      }
+    },
+    "attendre": {
+      "J'": {
+        "conjugation": "attends",
+        "complement": "toi"
+      },
+      "Tu": {
+        "conjugation": "attends",
+        "complement": "l'avion"
+      },
+      "Il": {
+        "conjugation": "attend",
+        "complement": "le train"
+      },
+      "Nous": {
+        "conjugation": "attendons",
+        "complement": "tous à la campagne"
+      },
+      "Vous": {
+        "conjugation": "attendez",
+        "complement": "toujours"
+      },
+      "Ils": {
+        "conjugation": "attendent",
+        "complement": "le bus"
+      }
+    },
+    "vivre": {
+      "Je": {
+        "conjugation": "vis",
+        "complement": "une vie de malheur"
+      },
+      "Tu": {
+        "conjugation": "vis",
+        "complement": "plus vite"
+      },
+      "Elle": {
+        "conjugation": "vit",
+        "complement": "encore"
+      },
+      "Nous": {
+        "conjugation": "vivons",
+        "complement": "tous à la campagne"
+      },
+      "Vous": {
+        "conjugation": "vivez",
+        "complement": "une époque de grands changements"
+      },
+      "Elles": {
+        "conjugation": "vivent",
+        "complement": "beaucoup"
+      }
+    },
+    "comprendre": {
+      "Je": {
+        "conjugation": "comprends",
+        "complement": "la musique classique"
+      },
+      "Tu": {
+        "conjugation": "comprends",
+        "complement": "la vie"
+      },
+      "Il": {
+        "conjugation": "comprend",
+        "complement": "150 élèves"
+      },
+      "Nous": {
+        "conjugation": "comprenons",
+        "complement": "sa méfiance"
+      },
+      "Vous": {
+        "conjugation": "comprenez",
+        "complement": "le français"
+      },
+      "Ils": {
+        "conjugation": "comprennent",
+        "complement": "l'anglais"
+      }
+    },
+    "écrire": {
+      "J'": {
+        "conjugation": "écris",
+        "complement": "mon livre"
+      },
+      "Tu": {
+        "conjugation": "écris",
+        "complement": "de fabuleux romans"
+      },
+      "Elle": {
+        "conjugation": "écrit",
+        "complement": "beaucoup à sa fille"
+      },
+      "Nous": {
+        "conjugation": "écrivons",
+        "complement": "la date au tableau"
+      },
+      "Vous": {
+        "conjugation": "écrivez",
+        "complement": "en français"
+      },
+      "Elles": {
+        "conjugation": "écrivent",
+        "complement": "rien"
+      }
+    },
+    "suivre": {
+      "Je": {
+        "conjugation": "suis",
+        "complement": "toi"
+      },
+      "Tu": {
+        "conjugation": "suis",
+        "complement": "le guide"
+      },
+      "Il": {
+        "conjugation": "suit",
+        "complement": "la rivière sur 15 km"
+      },
+      "Nous": {
+        "conjugation": "suivons",
+        "complement": "un suspect"
+      },
+      "Vous": {
+        "conjugation": "suivez",
+        "complement": "le parcours"
+      },
+      "Ils": {
+        "conjugation": "suivent",
+        "complement": "son imagination"
+      }
+    },
+    "partir": {
+      "Je": {
+        "conjugation": "pars",
+        "complement": "pour travailler"
+      },
+      "Tu": {
+        "conjugation": "pars",
+        "complement": "dan deux semaines"
+      },
+      "Il": {
+        "conjugation": "part",
+        "complement": "dans cinq minutes"
+      },
+      "Nous": {
+        "conjugation": "partons",
+        "complement": "chez toi"
+      },
+      "Vous": {
+        "conjugation": "partez",
+        "complement": "avec lui"
+      },
+      "Ils": {
+        "conjugation": "partent",
+        "complement": "tôt"
+      }
+    }
+  },
+  "passe_compose": {
+    "être": {
+      "J'": {
+        "conjugation": "ai été",
+        "complement": "un homme"
+      },
+      "Nous": {
+        "conjugation": "avons été",
+        "complement": "en Colombie"
+      },
+      "Tu": {
+        "conjugation": "as été",
+        "complement": "heureux"
+      },
+      "Il": {
+        "conjugation": "a été",
+        "complement": "très grand"
+      },
+      "Elle": {
+        "conjugation": "a été",
+        "complement": "intelligente"
+      },
+      "Vous": {
+        "conjugation": "avez été",
+        "complement": "bruyants"
+      },
+      "Ils": {
+        "conjugation": "ont été",
+        "complement": "calmes"
+      },
+      "Elles": {
+        "conjugation": "ont été",
+        "complement": "drôles"
+      }
+    },
+    "avoir": {
+      "J'": {
+        "conjugation": "ai eu",
+        "complement": "une voiture"
+      },
+      "Tu": {
+        "conjugation": "as eu",
+        "complement": "une bouteille"
+      },
+      "Il": {
+        "conjugation": "a eu",
+        "complement": "24 ans"
+      },
+      "Nous": {
+        "conjugation": "avons eu",
+        "complement": "beaucoup de viande"
+      },
+      "Elle": {
+        "conjugation": "a eu",
+        "complement": "une chienne noire"
+      },
+      "Vous": {
+        "conjugation": "avez eu",
+        "complement": "peur"
+      },
+      "Ils": {
+        "conjugation": "ont eu",
+        "complement": "une maladie"
+      },
+      "Elles": {
+        "conjugation": "ont eu",
+        "complement": "des portefeuilles"
+      }
+    },
+    "faire": {
+      "J'": {
+        "conjugation": "ai fait",
+        "complement": "du sport"
+      },
+      "Tu": {
+        "conjugation": "as fait",
+        "complement": "de la gymnastique"
+      },
+      "Il": {
+        "conjugation": "a fait",
+        "complement": "d'équitation"
+      },
+      "Nous": {
+        "conjugation": "avons fait",
+        "complement": "de la peinture"
+      },
+      "Vous": {
+        "conjugation": "avez fait",
+        "complement": "du tennis"
+      },
+      "Ils": {
+        "conjugation": "ont fait",
+        "complement": "des activités d'orientation"
+      }
+    },
+    "dire": {
+      "J'": {
+        "conjugation": "ai dit",
+        "complement": "à ma mère"
+      },
+      "Tu": {
+        "conjugation": "as dit",
+        "complement": "que le voyage est agréable"
+      },
+      "Vous": {
+        "conjugation": "avez dit",
+        "complement": "à votre père"
+      },
+      "Elle": {
+        "conjugation": "a dit",
+        "complement": "que tu manges trop"
+      },
+      "Nous": {
+        "conjugation": "avons dit",
+        "complement": "salut!"
+      },
+      "Elles": {
+        "conjugation": "ont dit",
+        "complement": "que c'est impossible"
+      }
+    },
+    "aller": {
+      "Elles": {
+        "conjugation": "sont allées",
+        "complement": "donner des concerts partout"
+      },
+      "Vous": {
+        "conjugation": "êtes allés",
+        "complement": "marcher par la rue"
+      },
+      "Nous": {
+        "conjugation": "sommes allés",
+        "complement": "participer"
+      },
+      "Elle": {
+        "conjugation": "est allée",
+        "complement": "chez toi?"
+      },
+      "Tu": {
+        "conjugation": "es allé",
+        "complement": "manger"
+      },
+      "Je": {
+        "conjugation": "suis allé",
+        "complement": "apprendre"
+      }
+    },
+    "voir": {
+      "J'": {
+        "conjugation": "ai vu",
+        "complement": "le livre"
+      },
+      "Tu": {
+        "conjugation": "as vu",
+        "complement": "la reine"
+      },
+      "Il": {
+        "conjugation": "a vu",
+        "complement": "des roses"
+      },
+      "Nous": {
+        "conjugation": "avons vu",
+        "complement": "ce chanteur"
+      },
+      "Vous": {
+        "conjugation": "avez vu",
+        "complement": "lui?"
+      },
+      "Elles": {
+        "conjugation": "ont vu",
+        "complement": "la vie en rose"
+      }
+    },
+    "pouvoir": {
+      "J'": {
+        "conjugation": "ai pu",
+        "complement": "acheter cet oreiller"
+      },
+      "Tu": {
+        "conjugation": "as pu",
+        "complement": "aller à Cancun"
+      },
+      "Vous": {
+        "conjugation": "avez pu",
+        "complement": "visiter moi"
+      },
+      "Nous": {
+        "conjugation": "avons pu",
+        "complement": "crier à tout le monde"
+      },
+      "Il": {
+        "conjugation": "a pu",
+        "complement": "habiter là"
+      },
+      "Ils": {
+        "conjugation": "ont pu",
+        "complement": "courir très vite"
+      }
+    },
+    "savoir": {
+      "J'": {
+        "conjugation": "ai su",
+        "complement": "la vérité"
+      },
+      "Tu": {
+        "conjugation": "as su",
+        "complement": "mon âge"
+      },
+      "Il": {
+        "conjugation": "a su",
+        "complement": "ton nom"
+      },
+      "Nous": {
+        "conjugation": "avons su",
+        "complement": "nos besoins"
+      },
+      "Vous": {
+        "conjugation": "avez su",
+        "complement": "sur Netflix"
+      },
+      "Ils": {
+        "conjugation": "ont su",
+        "complement": "les problèmes"
+      }
+    },
+    "vouloir": {
+      "J'": {
+        "conjugation": "ai voulu",
+        "complement": "un chien"
+      },
+      "Tu": {
+        "conjugation": "as voulu",
+        "complement": "un chat"
+      },
+      "Il": {
+        "conjugation": "a voulu",
+        "complement": "un cadeau"
+      },
+      "Nous": {
+        "conjugation": "avons voulu",
+        "complement": "un ordinateur"
+      },
+      "Vous": {
+        "conjugation": "avez voulu",
+        "complement": "les clés"
+      },
+      "Ils": {
+        "conjugation": "ont voulu",
+        "complement": "du riz"
+      }
+    },
+    "venir": {
+      "Je": {
+        "conjugation": "suis venu",
+        "complement": "de la Colombie"
+      },
+      "Tu": {
+        "conjugation": "es venu",
+        "complement": "d'Italie"
+      },
+      "Il": {
+        "conjugation": "est venu",
+        "complement": "du Canada"
+      },
+      "Nous": {
+        "conjugation": "sommes venus",
+        "complement": "des États-Unis"
+      },
+      "Vous": {
+        "conjugation": "êtes venus",
+        "complement": "d'Argentine"
+      },
+      "Ils": {
+        "conjugation": "sont venus",
+        "complement": "d'Europe"
+      }
+    },
+    "devoir": {
+      "J'": {
+        "conjugation": "ai dû",
+        "complement": "aller demain"
+      },
+      "Tu": {
+        "conjugation": "as dû",
+        "complement": "chercher ta clé"
+      },
+      "Il": {
+        "conjugation": "a dû",
+        "complement": "faire plus de sport"
+      },
+      "Nous": {
+        "conjugation": "avons dû",
+        "complement": "manger"
+      },
+      "Vous": {
+        "conjugation": "avez dû",
+        "complement": "courir très vite"
+      },
+      "Ils": {
+        "conjugation": "ont dû",
+        "complement": "dormir"
+      }
+    },
+    "croire": {
+      "J'": {
+        "conjugation": "ai cru",
+        "complement": "en toi"
+      },
+      "Tu": {
+        "conjugation": "as cru",
+        "complement": "en moi"
+      },
+      "Il": {
+        "conjugation": "a cru",
+        "complement": "en tout"
+      },
+      "Nous": {
+        "conjugation": "avons cru",
+        "complement": "qu'il réussirait cet examen"
+      },
+      "Vous": {
+        "conjugation": "avez cru",
+        "complement": "en Dieu"
+      },
+      "Ils": {
+        "conjugation": "ont cru",
+        "complement": "en le président"
+      }
+    },
+    "prendre": {
+      "J'": {
+        "conjugation": "ai pris",
+        "complement": "à moto"
+      },
+      "Tu": {
+        "conjugation": "as pris",
+        "complement": "le livre"
+      },
+      "Elle": {
+        "conjugation": "a pris",
+        "complement": "ses papiers"
+      },
+      "Nous": {
+        "conjugation": "avons pris",
+        "complement": "le bus"
+      },
+      "Ils": {
+        "conjugation": "ont pris",
+        "complement": "trois heures"
+      },
+      "Vous": {
+        "conjugation": "avez pris",
+        "complement": "l'argent"
+      }
+    },
+    "mettre": {
+      "J'": {
+        "conjugation": "ai mis",
+        "complement": "les documents"
+      },
+      "Tu": {
+        "conjugation": "as mis",
+        "complement": "un pantalon"
+      },
+      "Il": {
+        "conjugation": "a mis",
+        "complement": "une chemise"
+      },
+      "Nous": {
+        "conjugation": "avons mis",
+        "complement": "les bonnets"
+      },
+      "Vous": {
+        "conjugation": "avez mis",
+        "complement": "un caleçon"
+      },
+      "Elles": {
+        "conjugation": "ont mis",
+        "complement": "des vestes"
+      }
+    },
+    "tenir": {
+      "J'": {
+        "conjugation": "ai tenu",
+        "complement": "un stylo"
+      },
+      "Tu": {
+        "conjugation": "as tenu",
+        "complement": "les clés"
+      },
+      "Elle": {
+        "conjugation": "a tenu",
+        "complement": "une cuillère"
+      },
+      "Nous": {
+        "conjugation": "avons tenu",
+        "complement": "les couteaux"
+      },
+      "Vous": {
+        "conjugation": "avez tenu",
+        "complement": "une fourchette"
+      },
+      "Ils": {
+        "conjugation": "ont tenu",
+        "complement": "des papiers"
+      }
+    },
+    "entendre": {
+      "J'": {
+        "conjugation": "ai entendu",
+        "complement": "bien"
+      },
+      "Tu": {
+        "conjugation": "as entendu",
+        "complement": "le son des cloches"
+      },
+      "Il": {
+        "conjugation": "a entendu",
+        "complement": "ce que je lui disais"
+      },
+      "Nous": {
+        "conjugation": "avons entendu",
+        "complement": "la musique"
+      },
+      "Vous": {
+        "conjugation": "avez entendu",
+        "complement": "moi"
+      },
+      "Ils": {
+        "conjugation": "ont entendu",
+        "complement": "des choses"
+      }
+    },
+    "répondre": {
+      "J'": {
+        "conjugation": "ai répondu",
+        "complement": "à la question"
+      },
+      "Tu": {
+        "conjugation": "as répondu",
+        "complement": "au téléphone"
+      },
+      "Elle": {
+        "conjugation": "a répondu",
+        "complement": "à la porte"
+      },
+      "Nous": {
+        "conjugation": "avons répondu",
+        "complement": "à l'appel"
+      },
+      "Ils": {
+        "conjugation": "ont répondu",
+        "complement": "à l'invitation"
+      },
+      "Vous": {
+        "conjugation": "avez répondu",
+        "complement": "au message"
+      }
+    },
+    "rendre": {
+      "J'": {
+        "conjugation": "ai rendu",
+        "complement": "le livre à la bibliothèque"
+      },
+      "Tu": {
+        "conjugation": "as rendu",
+        "complement": "le devoir à l'enseignant"
+      },
+      "Elle": {
+        "conjugation": "a rendu",
+        "complement": "la clé à la réception"
+      },
+      "Nous": {
+        "conjugation": "avons rendu",
+        "complement": "les outils à leur propriétaire"
+      },
+      "Vous": {
+        "conjugation": "avez rendu",
+        "complement": "visite à vos grands-parents"
+      },
+      "Elles": {
+        "conjugation": "ont rendu",
+        "complement": "les documents à l'administration"
+      }
+    },
+    "connaître": {
+      "J'": {
+        "conjugation": "ai connu",
+        "complement": "une personne intéressante"
+      },
+      "Tu": {
+        "conjugation": "as connu",
+        "complement": "une nouvelle ville"
+      },
+      "Elle": {
+        "conjugation": "a connu",
+        "complement": "un grand succès"
+      },
+      "Nous": {
+        "conjugation": "avons connu",
+        "complement": "des moments difficiles"
+      },
+      "Vous": {
+        "conjugation": "avez connu",
+        "complement": "des changements importants"
+      },
+      "Elles": {
+        "conjugation": "ont connu",
+        "complement": "des expériences uniques"
+      }
+    },
+    "paraître": {
+      "J'": {
+        "conjugation": "ai paru",
+        "complement": "heureux lors de la fête"
+      },
+      "Tu": {
+        "conjugation": "as paru",
+        "complement": "fatigué ce matin"
+      },
+      "Elle": {
+        "conjugation": "a paru",
+        "complement": "confiant pendant l'entretien"
+      },
+      "Nous": {
+        "conjugation": "avons paru",
+        "complement": "calmes malgré la situation"
+      },
+      "Vous": {
+        "conjugation": "avez paru",
+        "complement": "surpris par la nouvelle"
+      },
+      "Elles": {
+        "conjugation": "ont paru",
+        "complement": "enthousiastes à l'idée du projet"
+      }
+    },
+    "sentir": {
+      "Je": {
+        "conjugation": "ai senti",
+        "complement": "une agréable fragrance dans l'air"
+      },
+      "Tu": {
+        "conjugation": "as senti",
+        "complement": "le parfum des fleurs"
+      },
+      "Elle": {
+        "conjugation": "a senti",
+        "complement": "une atmosphère de joie"
+      },
+      "Nous": {
+        "conjugation": "avons senti",
+        "complement": "une présence étrange"
+      },
+      "Vous": {
+        "conjugation": "avez senti",
+        "complement": "une brise fraîche sur le visage"
+      },
+      "Elles": {
+        "conjugation": "ont senti",
+        "complement": "une tension dans l'air"
+      }
+    },
+    "vivre": {
+      "J'": {
+        "conjugation": "ai vécu",
+        "complement": "une vie de malheur"
+      },
+      "Tu": {
+        "conjugation": "as vécu",
+        "complement": "plus vite"
+      },
+      "Il": {
+        "conjugation": "a vécu",
+        "complement": "encore"
+      },
+      "Nous": {
+        "conjugation": "avons vécu",
+        "complement": "tous à la campagne"
+      },
+      "Vous": {
+        "conjugation": "avez vécu",
+        "complement": "une époque de grands changements"
+      },
+      "Elles": {
+        "conjugation": "ont vécu",
+        "complement": "beaucoup"
+      }
+    },
+    "comprendre": {
+      "J'": {
+        "conjugation": "ai compris",
+        "complement": "la musique classique"
+      },
+      "Tu": {
+        "conjugation": "as compris",
+        "complement": "la vie"
+      },
+      "Il": {
+        "conjugation": "a compris",
+        "complement": "150 élèves"
+      },
+      "Nous": {
+        "conjugation": "avons compris",
+        "complement": "sa méfiance"
+      },
+      "Vous": {
+        "conjugation": "avez compris",
+        "complement": "le français"
+      },
+      "Ils": {
+        "conjugation": "ont compris",
+        "complement": "l'anglais"
+      }
+    },
+    "écrire": {
+      "J'": {
+        "conjugation": "ai écrit",
+        "complement": "mon livre"
+      },
+      "Tu": {
+        "conjugation": "as écrit",
+        "complement": "de fabuleux romans"
+      },
+      "Elle": {
+        "conjugation": "a écrit",
+        "complement": "beaucoup à sa fille"
+      },
+      "Nous": {
+        "conjugation": "avons écrit",
+        "complement": "la date au tableau"
+      },
+      "Vous": {
+        "conjugation": "avez écrit",
+        "complement": "en français"
+      },
+      "Elles": {
+        "conjugation": "ont écrit",
+        "complement": "rien"
+      }
+    },
+    "suivre": {
+      "J'": {
+        "conjugation": "ai suivi",
+        "complement": "toi"
+      },
+      "Tu": {
+        "conjugation": "as suivi",
+        "complement": "le guide"
+      },
+      "Il": {
+        "conjugation": "a suivi",
+        "complement": "la rivière sur 15 km"
+      },
+      "Nous": {
+        "conjugation": "avons suivi",
+        "complement": "un suspect"
+      },
+      "Vous": {
+        "conjugation": "avez suivi",
+        "complement": "le parcours"
+      },
+      "Ils": {
+        "conjugation": "ont suivi",
+        "complement": "son imagination"
+      }
+    },
+    "partir": {
+      "Je": {
+        "conjugation": "suis parti",
+        "complement": "pour travailler"
+      },
+      "Tu": {
+        "conjugation": "es parti",
+        "complement": "il y a deux semaines"
+      },
+      "Il": {
+        "conjugation": "est parti",
+        "complement": "il y a cinq minutes"
+      },
+      "Nous": {
+        "conjugation": "sommes partis",
+        "complement": "chez toi"
+      },
+      "Vous": {
+        "conjugation": "êtes partis",
+        "complement": "avec lui"
+      },
+      "Ils": {
+        "conjugation": "sont partis",
+        "complement": "tôt"
+      }
+    }
+  }
+}

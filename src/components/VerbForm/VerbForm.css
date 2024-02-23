@@ -1,0 +1,9 @@
+.container_verb_form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.container_verb_form__input {
+    text-align: center;
+}

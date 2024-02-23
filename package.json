@@ -1,0 +1,38 @@
+{
+  "name": "react-verbs-francais",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "fakeApi": "json-server --watch src/database/DataBase.json --port 5000"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "grommet": "https://github.com/grommet/grommet/tarball/stable",
+    "grommet-icons": "^4.12.0",
+    "json-server": "^1.0.0-alpha.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2",
+    "styled-components": "^5.3.11"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@vitejs/plugin-react-swc": "^3.0.0",
+    "eslint": "^8.35.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "2.8.4",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.0"
+  }
+}

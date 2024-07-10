@@ -1412,5 +1412,891 @@
         "complement": "tôt"
       }
     }
+  },
+  "imparfait": {
+    "être": {
+      "J'": {
+        "conjugation": "étais",
+        "complement": "un homme"
+      },
+      "Nous": {
+        "conjugation": "étions",
+        "complement": "en Colombie"
+      },
+      "Tu": {
+        "conjugation": "étais",
+        "complement": "heureux"
+      },
+      "Il": {
+        "conjugation": "était",
+        "complement": "très grand"
+      },
+      "Elle": {
+        "conjugation": "était",
+        "complement": "intelligente"
+      },
+      "Vous": {
+        "conjugation": "étiez",
+        "complement": "bruyants"
+      },
+      "Ils": {
+        "conjugation": "étaient",
+        "complement": "calmes"
+      },
+      "Elles": {
+        "conjugation": "étaient",
+        "complement": "drôles"
+      }
+    },
+    "avoir": {
+      "J'": {
+        "conjugation": "avais",
+        "complement": "un chien"
+      },
+      "Nous": {
+        "conjugation": "avions",
+        "complement": "un grand jardin"
+      },
+      "Tu": {
+        "conjugation": "avais",
+        "complement": "beaucoup de chance"
+      },
+      "Il": {
+        "conjugation": "avait",
+        "complement": "une belle voiture"
+      },
+      "Elle": {
+        "conjugation": "avait",
+        "complement": "une robe rouge"
+      },
+      "Vous": {
+        "conjugation": "aviez",
+        "complement": "des amis"
+      },
+      "Ils": {
+        "conjugation": "avaient",
+        "complement": "des projets"
+      },
+      "Elles": {
+        "conjugation": "avaient",
+        "complement": "des rêves"
+      }
+    },
+    "faire": {
+      "Je": {
+        "conjugation": "faisais",
+        "complement": "mes devoirs"
+      },
+      "Nous": {
+        "conjugation": "faisions",
+        "complement": "la cuisine"
+      },
+      "Tu": {
+        "conjugation": "faisais",
+        "complement": "du sport"
+      },
+      "Il": {
+        "conjugation": "faisait",
+        "complement": "une promenade"
+      },
+      "Elle": {
+        "conjugation": "faisait",
+        "complement": "du shopping"
+      },
+      "Vous": {
+        "conjugation": "faisiez",
+        "complement": "du bruit"
+      },
+      "Ils": {
+        "conjugation": "faisaient",
+        "complement": "du vélo"
+      },
+      "Elles": {
+        "conjugation": "faisaient",
+        "complement": "la fête"
+      }
+    },
+    "dire": {
+      "Je": {
+        "conjugation": "disais",
+        "complement": "la vérité"
+      },
+      "Nous": {
+        "conjugation": "disions",
+        "complement": "des histoires"
+      },
+      "Tu": {
+        "conjugation": "disais",
+        "complement": "quelque chose"
+      },
+      "Il": {
+        "conjugation": "disait",
+        "complement": "un secret"
+      },
+      "Elle": {
+        "conjugation": "disait",
+        "complement": "un poème"
+      },
+      "Vous": {
+        "conjugation": "disiez",
+        "complement": "des nouvelles"
+      },
+      "Ils": {
+        "conjugation": "disaient",
+        "complement": "des mensonges"
+      },
+      "Elles": {
+        "conjugation": "disaient",
+        "complement": "des blagues"
+      }
+    },
+    "aller": {
+      "J'": {
+        "conjugation": "allais",
+        "complement": "au marché"
+      },
+      "Nous": {
+        "conjugation": "allions",
+        "complement": "à la plage"
+      },
+      "Tu": {
+        "conjugation": "allais",
+        "complement": "à l'école"
+      },
+      "Il": {
+        "conjugation": "allait",
+        "complement": "au cinéma"
+      },
+      "Elle": {
+        "conjugation": "allait",
+        "complement": "au parc"
+      },
+      "Vous": {
+        "conjugation": "alliez",
+        "complement": "au restaurant"
+      },
+      "Ils": {
+        "conjugation": "allaient",
+        "complement": "au musée"
+      },
+      "Elles": {
+        "conjugation": "allaient",
+        "complement": "à la bibliothèque"
+      }
+    },
+    "voir": {
+      "Je": {
+        "conjugation": "voyais",
+        "complement": "un film"
+      },
+      "Nous": {
+        "conjugation": "voyions",
+        "complement": "un spectacle"
+      },
+      "Tu": {
+        "conjugation": "voyais",
+        "complement": "la mer"
+      },
+      "Il": {
+        "conjugation": "voyait",
+        "complement": "un oiseau"
+      },
+      "Elle": {
+        "conjugation": "voyait",
+        "complement": "une étoile"
+      },
+      "Vous": {
+        "conjugation": "voyiez",
+        "complement": "le coucher du soleil"
+      },
+      "Ils": {
+        "conjugation": "voyaient",
+        "complement": "des amis"
+      },
+      "Elles": {
+        "conjugation": "voyaient",
+        "complement": "des montagnes"
+      }
+    },
+    "pouvoir": {
+      "Je": {
+        "conjugation": "pouvais",
+        "complement": "courir vite"
+      },
+      "Nous": {
+        "conjugation": "pouvions",
+        "complement": "voyager ensemble"
+      },
+      "Tu": {
+        "conjugation": "pouvais",
+        "complement": "répondre aux questions"
+      },
+      "Il": {
+        "conjugation": "pouvait",
+        "complement": "porter des charges lourdes"
+      },
+      "Elle": {
+        "conjugation": "pouvait",
+        "complement": "chanter bien"
+      },
+      "Vous": {
+        "conjugation": "pouviez",
+        "complement": "venir avec nous"
+      },
+      "Ils": {
+        "conjugation": "pouvaient",
+        "complement": "jouer au football"
+      },
+      "Elles": {
+        "conjugation": "pouvaient",
+        "complement": "faire du vélo"
+      }
+    },
+    "savoir": {
+      "Je": {
+        "conjugation": "savais",
+        "complement": "la réponse"
+      },
+      "Nous": {
+        "conjugation": "savions",
+        "complement": "la vérité"
+      },
+      "Tu": {
+        "conjugation": "savais",
+        "complement": "conduire"
+      },
+      "Il": {
+        "conjugation": "savait",
+        "complement": "nager"
+      },
+      "Elle": {
+        "conjugation": "savait",
+        "complement": "cuisiner"
+      },
+      "Vous": {
+        "conjugation": "saviez",
+        "complement": "parler français"
+      },
+      "Ils": {
+        "conjugation": "savaient",
+        "complement": "jouer du piano"
+      },
+      "Elles": {
+        "conjugation": "savaient",
+        "complement": "danser"
+      }
+    },
+    "vouloir": {
+      "Je": {
+        "conjugation": "voulais",
+        "complement": "une glace"
+      },
+      "Nous": {
+        "conjugation": "voulions",
+        "complement": "partir en vacances"
+      },
+      "Tu": {
+        "conjugation": "voulais",
+        "complement": "apprendre"
+      },
+      "Il": {
+        "conjugation": "voulait",
+        "complement": "rester à la maison"
+      },
+      "Elle": {
+        "conjugation": "voulait",
+        "complement": "aller au cinéma"
+      },
+      "Vous": {
+        "conjugation": "vouliez",
+        "complement": "aider"
+      },
+      "Ils": {
+        "conjugation": "voulaient",
+        "complement": "participer"
+      },
+      "Elles": {
+        "conjugation": "voulaient",
+        "complement": "chanter"
+      }
+    },
+    "venir": {
+      "Je": {
+        "conjugation": "venais",
+        "complement": "chez toi"
+      },
+      "Nous": {
+        "conjugation": "venions",
+        "complement": "de la plage"
+      },
+      "Tu": {
+        "conjugation": "venais",
+        "complement": "à l'école"
+      },
+      "Il": {
+        "conjugation": "venait",
+        "complement": "du travail"
+      },
+      "Elle": {
+        "conjugation": "venait",
+        "complement": "de la maison"
+      },
+      "Vous": {
+        "conjugation": "veniez",
+        "complement": "au rendez-vous"
+      },
+      "Ils": {
+        "conjugation": "venaient",
+        "complement": "du supermarché"
+      },
+      "Elles": {
+        "conjugation": "venaient",
+        "complement": "du concert"
+      }
+    },
+    "devoir": {
+      "Je": {
+        "conjugation": "devais",
+        "complement": "étudier"
+      },
+      "Nous": {
+        "conjugation": "devions",
+        "complement": "travailler dur"
+      },
+      "Tu": {
+        "conjugation": "devais",
+        "complement": "finir tes devoirs"
+      },
+      "Il": {
+        "conjugation": "devait",
+        "complement": "arriver à l'heure"
+      },
+      "Elle": {
+        "conjugation": "devait",
+        "complement": "apprendre ses leçons"
+      },
+      "Vous": {
+        "conjugation": "deviez",
+        "complement": "réussir cet examen"
+      },
+      "Ils": {
+        "conjugation": "devaient",
+        "complement": "se préparer pour demain"
+      },
+      "Elles": {
+        "conjugation": "devaient",
+        "complement": "présenter leur projet"
+      }
+    },
+    "croire": {
+      "Je": {
+        "conjugation": "croyais",
+        "complement": "en lui"
+      },
+      "Nous": {
+        "conjugation": "croyions",
+        "complement": "en nos chances"
+      },
+      "Tu": {
+        "conjugation": "croyais",
+        "complement": "à cette histoire"
+      },
+      "Il": {
+        "conjugation": "croyait",
+        "complement": "à la magie"
+      },
+      "Elle": {
+        "conjugation": "croyait",
+        "complement": "aux fantômes"
+      },
+      "Vous": {
+        "conjugation": "croyiez",
+        "complement": "en ce projet"
+      },
+      "Ils": {
+        "conjugation": "croyaient",
+        "complement": "en leur destin"
+      },
+      "Elles": {
+        "conjugation": "croyaient",
+        "complement": "en leurs rêves"
+      }
+    },
+    "prendre": {
+      "Je": {
+        "conjugation": "prenais",
+        "complement": "des notes"
+      },
+      "Nous": {
+        "conjugation": "prenions",
+        "complement": "le bus tous les jours"
+      },
+      "Tu": {
+        "conjugation": "prenais",
+        "complement": "des photos"
+      },
+      "Il": {
+        "conjugation": "prenait",
+        "complement": "son petit-déjeuner"
+      },
+      "Elle": {
+        "conjugation": "prenait",
+        "complement": "soin de ses plantes"
+      },
+      "Vous": {
+        "conjugation": "preniez",
+        "complement": "des décisions importantes"
+      },
+      "Ils": {
+        "conjugation": "prenaient",
+        "complement": "des vacances chaque année"
+      },
+      "Elles": {
+        "conjugation": "prenaient",
+        "complement": "des cours de danse"
+      }
+    },
+    "mettre": {
+      "Je": {
+        "conjugation": "mettais",
+        "complement": "la table"
+      },
+      "Nous": {
+        "conjugation": "mettions",
+        "complement": "les affaires en ordre"
+      },
+      "Tu": {
+        "conjugation": "mettais",
+        "complement": "tes chaussures"
+      },
+      "Il": {
+        "conjugation": "mettait",
+        "complement": "ses lunettes"
+      },
+      "Elle": {
+        "conjugation": "mettait",
+        "complement": "sa veste"
+      },
+      "Vous": {
+        "conjugation": "mettiez",
+        "complement": "du sel dans la soupe"
+      },
+      "Ils": {
+        "conjugation": "mettaient",
+        "complement": "les livres sur l'étagère"
+      },
+      "Elles": {
+        "conjugation": "mettaient",
+        "complement": "les fleurs dans un vase"
+      }
+    },
+    "tenir": {
+      "Je": {
+        "conjugation": "tenais",
+        "complement": "le livre"
+      },
+      "Nous": {
+        "conjugation": "tenions",
+        "complement": "la situation sous contrôle"
+      },
+      "Tu": {
+        "conjugation": "tenais",
+        "complement": "ton sac à dos"
+      },
+      "Il": {
+        "conjugation": "tenait",
+        "complement": "la porte ouverte"
+      },
+      "Elle": {
+        "conjugation": "tenait",
+        "complement": "fermement sa promesse"
+      },
+      "Vous": {
+        "conjugation": "teniez",
+        "complement": "vos engagements"
+      },
+      "Ils": {
+        "conjugation": "tenaient",
+        "complement": "le rythme"
+      },
+      "Elles": {
+        "conjugation": "tenaient",
+        "complement": "leurs positions"
+      }
+    },
+    "entendre": {
+      "J'": {
+        "conjugation": "entendais",
+        "complement": "le bruit"
+      },
+      "Nous": {
+        "conjugation": "entendions",
+        "complement": "des voix"
+      },
+      "Tu": {
+        "conjugation": "entendais",
+        "complement": "la musique"
+      },
+      "Il": {
+        "conjugation": "entendait",
+        "complement": "le vent souffler"
+      },
+      "Elle": {
+        "conjugation": "entendait",
+        "complement": "les oiseaux chanter"
+      },
+      "Vous": {
+        "conjugation": "entendiez",
+        "complement": "les discussions"
+      },
+      "Ils": {
+        "conjugation": "entendaient",
+        "complement": "les bruits de la ville"
+      },
+      "Elles": {
+        "conjugation": "entendaient",
+        "complement": "les nouvelles"
+      }
+    },
+    "répondre": {
+      "Je": {
+        "conjugation": "répondais",
+        "complement": "aux questions"
+      },
+      "Nous": {
+        "conjugation": "répondions",
+        "complement": "aux appels"
+      },
+      "Tu": {
+        "conjugation": "répondais",
+        "complement": "au téléphone"
+      },
+      "Il": {
+        "conjugation": "répondait",
+        "complement": "poliment"
+      },
+      "Elle": {
+        "conjugation": "répondait",
+        "complement": "aux lettres"
+      },
+      "Vous": {
+        "conjugation": "répondiez",
+        "complement": "rapidement"
+      },
+      "Ils": {
+        "conjugation": "répondaient",
+        "complement": "aux critiques"
+      },
+      "Elles": {
+        "conjugation": "répondaient",
+        "complement": "aux demandes"
+      }
+    },
+    "rendre": {
+      "Je": {
+        "conjugation": "rendais",
+        "complement": "visite à mes amis"
+      },
+      "Nous": {
+        "conjugation": "rendions",
+        "complement": "nos devoirs à temps"
+      },
+      "Tu": {
+        "conjugation": "rendais",
+        "complement": "service à la communauté"
+      },
+      "Il": {
+        "conjugation": "rendait",
+        "complement": "ses livres à la bibliothèque"
+      },
+      "Elle": {
+        "conjugation": "rendait",
+        "complement": "service à l'hôpital"
+      },
+      "Vous": {
+        "conjugation": "rendiez",
+        "complement": "visite à vos grands-parents"
+      },
+      "Ils": {
+        "conjugation": "rendaient",
+        "complement": "leurs devoirs"
+      },
+      "Elles": {
+        "conjugation": "rendaient",
+        "complement": "les clés à leur propriétaire"
+      }
+    },
+    "connaître": {
+      "Je": {
+        "conjugation": "connaissais",
+        "complement": "la musique de tous les genres, sauf le dubstep. Personne ne sait vraiment ce qui se passe là-dedans."
+      },
+      "Nous": {
+        "conjugation": "connaissions",
+        "complement": "les recoins secrets de notre quartier, comme où se cache le meilleur café et le plus savoureux des croissants."
+      },
+      "Tu": {
+        "conjugation": "connaissais",
+        "complement": "tous les épisodes de ta série préférée par cœur, même celui où le personnage principal a changé de coupe de cheveux trois fois en une saison."
+      },
+      "Il": {
+        "conjugation": "connaissait",
+        "complement": "parfaitement bien la recette secrète de la tarte aux pommes de sa grand-mère, mais il n'a jamais réussi à la reproduire aussi bien."
+      },
+      "Elle": {
+        "conjugation": "connaissait",
+        "complement": "les ficelles du métier de lancer de chatons mignons sur internet pour une diffusion virale, bien que ce ne soit pas une carrière officiellement reconnue."
+      },
+      "Vous": {
+        "conjugation": "connaissiez",
+        "complement": "les astuces pour éviter toutes les conversations gênantes à la fête, en vous concentrant toujours sur le plateau de hors-d'œuvre comme si votre vie en dépendait."
+      },
+      "Ils": {
+        "conjugation": "connaissaient",
+        "complement": "tous les bons spots pour chasser les licornes dans le monde des jeux vidéo, mais ils ne comprenaient jamais pourquoi elles disparaissaient toujours à la dernière minute."
+      },
+      "Elles": {
+        "conjugation": "connaissaient",
+        "complement": "les paroles de la chanson pop la plus ridicule de l'année précédente, et elles la chantaient sans honte lors des karaokés, provoquant des rires et des applaudissements polis."
+      }
+    },
+    "paraître": {
+      "Je": {
+        "conjugation": "paraissais",
+        "complement": "calme"
+      },
+      "Nous": {
+        "conjugation": "paraissions",
+        "complement": "confiants"
+      },
+      "Tu": {
+        "conjugation": "paraissais",
+        "complement": "sérieux"
+      },
+      "Il": {
+        "conjugation": "paraissait",
+        "complement": "distant"
+      },
+      "Elle": {
+        "conjugation": "paraissait",
+        "complement": "absente"
+      },
+      "Vous": {
+        "conjugation": "paraissiez",
+        "complement": "surpris"
+      },
+      "Ils": {
+        "conjugation": "paraissaient",
+        "complement": "fatigués"
+      },
+      "Elles": {
+        "conjugation": "paraissaient",
+        "complement": "enthousiastes"
+      }
+    },
+    "sentir": {
+      "Je": {
+        "conjugation": "sentais",
+        "complement": "une bonne odeur"
+      },
+      "Nous": {
+        "conjugation": "sentions",
+        "complement": "le vent sur notre visage"
+      },
+      "Tu": {
+        "conjugation": "sentais",
+        "complement": "la présence de quelqu'un"
+      },
+      "Il": {
+        "conjugation": "sentait",
+        "complement": "le danger"
+      },
+      "Elle": {
+        "conjugation": "sentait",
+        "complement": "la tristesse"
+      },
+      "Vous": {
+        "conjugation": "sentiez",
+        "complement": "la tension dans l'air"
+      },
+      "Ils": {
+        "conjugation": "sentaient",
+        "complement": "la fatigue"
+      },
+      "Elles": {
+        "conjugation": "sentaient",
+        "complement": "la présence des esprits"
+      }
+    },
+    "vivre": {
+      "Je": {
+        "conjugation": "vivais",
+        "complement": "dans cette ville"
+      },
+      "Nous": {
+        "conjugation": "vivions",
+        "complement": "dans cette maison"
+      },
+      "Tu": {
+        "conjugation": "vivais",
+        "complement": "une belle histoire"
+      },
+      "Il": {
+        "conjugation": "vivait",
+        "complement": "une période difficile"
+      },
+      "Elle": {
+        "conjugation": "vivait",
+        "complement": "dans ses rêves"
+      },
+      "Vous": {
+        "conjugation": "viviez",
+        "complement": "heureux"
+      },
+      "Ils": {
+        "conjugation": "vivaient",
+        "complement": "ensemble depuis longtemps"
+      },
+      "Elles": {
+        "conjugation": "vivaient",
+        "complement": "en harmonie avec la nature"
+      }
+    },
+    "comprendre": {
+      "Je": {
+        "conjugation": "comprenais",
+        "complement": "facilement"
+      },
+      "Nous": {
+        "conjugation": "comprenions",
+        "complement": "la situation"
+      },
+      "Tu": {
+        "conjugation": "comprenais",
+        "complement": "le problème"
+      },
+      "Il": {
+        "conjugation": "comprenait",
+        "complement": "les instructions"
+      },
+      "Elle": {
+        "conjugation": "comprenait",
+        "complement": "ses erreurs"
+      },
+      "Vous": {
+        "conjugation": "compreniez",
+        "complement": "nos attentes"
+      },
+      "Ils": {
+        "conjugation": "comprenaient",
+        "complement": "leurs responsabilités"
+      },
+      "Elles": {
+        "conjugation": "comprenaient",
+        "complement": "leurs sentiments"
+      }
+    },
+    "écrire": {
+      "J'": {
+        "conjugation": "écrivais",
+        "complement": "une lettre"
+      },
+      "Nous": {
+        "conjugation": "écrivions",
+        "complement": "des poèmes"
+      },
+      "Tu": {
+        "conjugation": "écrivais",
+        "complement": "dans ton journal"
+      },
+      "Il": {
+        "conjugation": "écrivait",
+        "complement": "des histoires"
+      },
+      "Elle": {
+        "conjugation": "écrivait",
+        "complement": "ses mémoires"
+      },
+      "Vous": {
+        "conjugation": "écriviez",
+        "complement": "des articles"
+      },
+      "Ils": {
+        "conjugation": "écrivaient",
+        "complement": "des rapports"
+      },
+      "Elles": {
+        "conjugation": "écrivaient",
+        "complement": "des lettres d'amour"
+      }
+    },
+    "suivre": {
+      "Je": {
+        "conjugation": "suivais",
+        "complement": "le chemin"
+      },
+      "Nous": {
+        "conjugation": "suivions",
+        "complement": "les instructions"
+      },
+      "Tu": {
+        "conjugation": "suivais",
+        "complement": "le cours"
+      },
+      "Il": {
+        "conjugation": "suivait",
+        "complement": "ses ambitions"
+      },
+      "Elle": {
+        "conjugation": "suivait",
+        "complement": "ses rêves"
+      },
+      "Vous": {
+        "conjugation": "suiviez",
+        "complement": "le débat"
+      },
+      "Ils": {
+        "conjugation": "suivaient",
+        "complement": "le troupeau"
+      },
+      "Elles": {
+        "conjugation": "suivaient",
+        "complement": "la compétition"
+      }
+    },
+    "partir": {
+      "Je": {
+        "conjugation": "partais",
+        "complement": "tous les jours à la même heure"
+      },
+      "Nous": {
+        "conjugation": "partions",
+        "complement": "en vacances chaque été"
+      },
+      "Tu": {
+        "conjugation": "partais",
+        "complement": "tôt le matin"
+      },
+      "Il": {
+        "conjugation": "partait",
+        "complement": "après le dîner"
+      },
+      "Elle": {
+        "conjugation": "partait",
+        "complement": "sans dire au revoir"
+      },
+      "Vous": {
+        "conjugation": "partiez",
+        "complement": "avant la fin du spectacle"
+      },
+      "Ils": {
+        "conjugation": "partaient",
+        "complement": "pour un long voyage"
+      },
+      "Elles": {
+        "conjugation": "partaient",
+        "complement": "ensemble à l'aventure"
+      }
+    }
   }
 }

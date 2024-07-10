@@ -19,6 +19,7 @@ const App = (): JSX.Element => {
           <AnchorLink to={'/'} label="Accueil" />
           <AnchorLink to={'/practice/present'} label="Present" />
           <AnchorLink to={'/practice/passe_compose'} label="Passé Composé" />
+          <AnchorLink to={'/practice/imparfait'} label="Imparfait" />
         </Box>
         <Button icon={<Moon />} onClick={() => setDarkMode(!darkMode)} />
       </Header>

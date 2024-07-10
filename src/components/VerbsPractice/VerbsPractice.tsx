@@ -102,7 +102,7 @@ export const VerbsPractice: React.FC = () => {
     <main>
       <Box pad="small">
         <Text color={'status-error'} size="large">
-          {tense}
+          {tense?.toLocaleUpperCase()}
         </Text>
       </Box>
 
